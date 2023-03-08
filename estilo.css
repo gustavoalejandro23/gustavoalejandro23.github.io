@@ -1,0 +1,79 @@
+h1 {
+    font-size: xx-large;
+    border-style: ridge;
+    background-color: orange;
+    margin: 20px;
+    padding:90px 90px;
+    color: blue;
+    text-align: center;
+  }
+  body {
+    font-family: "Audiowide", sans-serif;
+    background-color: lightblue;
+    margin: 150;
+    padding: auto;
+
+  }
+  
+  main {
+    margin: 25;
+    padding: 0 600;
+    color: blue;
+  }
+  section {
+    font-size: larger;
+    border-style: ridge;
+    background-color: orange;
+    margin: 20px;
+    padding: 70px;px 70px;
+    color: blue;
+    text-align: left;
+  }
+  nav {
+    list-style-type: none;
+    margin: 20px 20px;
+    padding: 20;
+    color: black;
+    background-color: orangered;
+  }
+  .menu {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: orangered;
+        font-size: larger;
+        text-align: center;
+        
+  }
+  ul {
+    list-style-type: none;
+    margin: 150;
+    padding: 20;
+    overflow: hidden;
+    background-color: #333;
+    text-align: center;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a {
+    background-color: black;
+  }
+  .active {
+    background-color: #04AA6D;
+  }
+  aside{
+    margin: 25;
+    padding: 0 600;
+    color: blue;
+
+  }
+  img {
+    margin-left: 300px;
+  }
